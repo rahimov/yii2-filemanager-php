@@ -17,6 +17,7 @@
     "php": ">=5.4.0",
     "yiisoft/yii2": "*",
     "guillermomartinez/filemanager-php": "~0.1",
+    "bower-asset/bootstrap-contextmenu":  "~0.3",
     "bower-asset/filemanager-ui":  "~0.1"
   },
   "autoload": {
