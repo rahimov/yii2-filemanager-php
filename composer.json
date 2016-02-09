@@ -16,9 +16,9 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "*",
-    "bower-asset/bootstrap-contextmenu": "~0.3.4",
-    "bower-asset/filemanager-ui":  "~0.1.1",
-    "guillermomartinez/filemanager-php": "~0.1.3"
+    "bower-asset/bootstrap-contextmenu": "*",
+    "bower-asset/filemanager-ui":  "*",
+    "guillermomartinez/filemanager-php": "*"
   },
   "autoload": {
     "psr-4": {
