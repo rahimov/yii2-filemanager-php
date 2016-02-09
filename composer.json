@@ -17,6 +17,7 @@
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": "*",
+    "bower-asset/moment": "~2.9.0",
     "bower-asset/bootstrap-contextmenu": "*",
     "bower-asset/filemanager-ui":  "*",
     "guillermomartinez/filemanager-php": "*"
