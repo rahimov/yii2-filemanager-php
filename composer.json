@@ -21,7 +21,7 @@
     "bower-asset/dropzone": "~4.0.1",
     "bower-asset/fancybox": "~2.1.5",
     "bower-asset/moment": "~2.9.0",
-    "bower-asset/bootstrap-contextmenu": "dev-master",
+    "bower-asset/bootstrap-contextmenu": "guillermomartinez/bootstrap-contextmenu-master",
     "bower-asset/filemanager-ui":  "~0.1.0",
     "guillermomartinez/filemanager-php": "~0.1.3"
   },
